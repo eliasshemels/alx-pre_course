@@ -13,3 +13,6 @@ git commit -m "text_file"
 
 #to push file to the repo 
 git push 
+
+#to pull file from the repo
+git pull
