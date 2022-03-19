@@ -1,0 +1,15 @@
+#to add all the file into the rep we use this commmand 
+git add . 
+
+#to change branch we use
+git switch 
+
+#to get list of branch and create we use this commands
+git branch 
+git branch <branch_name>
+
+#to commit the data to the repo
+git commit -m "text_file"
+
+#to push file to the repo 
+git push 
